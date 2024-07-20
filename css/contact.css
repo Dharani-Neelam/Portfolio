@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("images/10.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+  color: rgb(40, 24, 24);
+}
+.git {
+  border-radius: 150px;
+  margin-left: 20px;
+}
+.image {
+  display: inline;
+  margin-left: 39%;
+}
+
+.web {
+  margin-bottom: 5px;
+}
+.contact {
+  border: 5px solid rgb(40, 36, 36);
+  border-radius: 5px;
+
+  background: linear-gradient(
+    90deg,
+    rgb(94, 90, 90) 5%,
+    rgb(181, 179, 179) 95%
+  );
+  margin-top: 10%;
+  margin-left: 20%;
+  padding: 30px 30px;
+  width: 55%;
+}
+.web {
+  text-align: center;
+}
+.personal {
+  color: rgb(181, 179, 179);
+}
+.footer {
+  height: 31.9vh;
+}
+.personal .p1 {
+  display: inline-flex;
+  margin-left: 28.5%;
+}
+.personal .p2 {
+  display: inline-flex;
+}
